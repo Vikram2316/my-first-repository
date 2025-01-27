@@ -44,3 +44,9 @@ let customerName = "Rob Gronkowski"
 let welcomeMessage = "Welcome, " + customerName + "!, Glad to see you at our store, we have Wilson NFL Footballs available for you"
 console.log(welcomeMessage)
 
+// Task 5: Bootlean Data Type
+let isLoggedIn = True
+
+if (isLoggedIn) {console.log("User has successfully logged in")} 
+else {console.log("User log in unsuccessful, please try again")}
+
