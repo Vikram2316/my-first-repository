@@ -37,3 +37,10 @@ console.log("Account Balance after 3% interest rate", accountBalance);
 accountBalance /= 2 // Splitting money 2 ways 
 console.log("Account Balance after splitting money:", accountBalance);
 
+// Task 4: String Data Type
+
+let customerName = "Rob Gronkowski" 
+
+let welcomeMessage = "Welcome, " + customerName + "!, Glad to see you at our store, we have Wilson NFL Footballs available for you"
+console.log(welcomeMessage)
+
