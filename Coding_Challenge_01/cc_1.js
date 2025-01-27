@@ -1,7 +1,7 @@
 // Task 1: Variables 
 
 let employeename = "Tom Brady";
-const employeeID = 012;
+const employeeID = 12;
 var isActive = true;
 
 console.log("Employee Name:", employeeName, "Type:", typeof employeeName);
