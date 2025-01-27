@@ -5,8 +5,8 @@ const employeeID = 12;
 var isActive = true;
 
 console.log("Employee Name:", employeeName, "Type:", typeof employeeName);
-onsole.log("Employee ID:", employeeID, "Type:", typeof employeeID);
-onsole.log("Is Active:", isActive, "Type:", typeof isActive);
+console.log("Employee ID:", employeeID, "Type:", typeof employeeID);
+console.log("Is Active:", isActive, "Type:", typeof isActive);
 
 // Task 2: Primitive Data Types
 
