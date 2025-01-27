@@ -50,3 +50,4 @@ let isLoggedIn = True
 if (isLoggedIn) {console.log("User has successfully logged in")} 
 else {console.log("User log in unsuccessful, please try again")}
 
+// All tasks done
